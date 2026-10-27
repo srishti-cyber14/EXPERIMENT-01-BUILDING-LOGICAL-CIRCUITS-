@@ -157,10 +157,10 @@ Use this format to record the results:
 
 | Inputs | Expected output | Observed output | Status |
 |---|---|---|---|
-| 0000 |  |  |  |
-| 0001 |  |  |  |
-| 0010 |  |  |  |
-| ... |  |  |  |
+| 0000 | 00 | 00 | PASS |
+| 0001 | 00 | 00 | PASS|
+| 0010 | 00 | 00 | PASS |
+| 0011| 00 | 00 | PASS |
 
 Extend the table to include every input combination required by each equation.
 
