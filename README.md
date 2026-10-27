@@ -1,6 +1,6 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
-## Name : 
+## Name : Srishti.T
 ## Register Number : RA2511030010319
 
 ## 1. Aim
